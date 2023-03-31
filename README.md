@@ -3,8 +3,8 @@
 
 - 🔭 I’m currently studying at School of Computer Science and Artificial Intelligence of WHUT.
 - 🌱 I’m currently learning **how to write an RPC framework**.
-- 🤔 I will graduate with a master's degree in June 2024, and I am currently looking for a job.
-- 📫 How to reach me: <a href="mailto:weiyi.wang1999@qq.com">weiyi.wang1999@qq.com</a>
+- 🤔 I will graduate with a master's degree in **June 2024**, and I am currently **looking for a job**.
+- 📫 How to reach me: **<a href="mailto:weiyi.wang1999@qq.com">weiyi.wang1999@qq.com</a>**
 
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Wang3219&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wang3219&layout=compact&theme=buefy&hide_border=true" /></a> |
