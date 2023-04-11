@@ -7,10 +7,10 @@
 - 📫 How to reach me: **<a href="mailto:weiyi.wang1999@qq.com">weiyi.wang1999@qq.com</a>**
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Wang3219&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wang3219&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Wang3219&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Wang3219&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 You are may <span><img src="https://profile-counter.glitch.me/Wang3219/count.svg" /></span> visitor, thank you!:kissing_heart::kissing_heart:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wang3219&repo=douyin&show_owner=true&&theme=cobalt)](https://github.com/Wang3219/douyin)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wang3219&repo=RPC&show_owner=true&&theme=cobalt)](https://github.com/Wang3219/RPC)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Wang3219&repo=douyin&show_owner=true&&theme=cobalt)](https://github.com/Wang3219/douyin)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Wang3219&repo=RPC&show_owner=true&&theme=cobalt)](https://github.com/Wang3219/RPC)
