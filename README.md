@@ -2,7 +2,6 @@
 ### Hi, I'm Weiyi Wang
 
 - 🔭 I’m currently studying at School of Computer Science and Artificial Intelligence of WHUT.
-- 🌱 I’m currently learning **how to write an RPC framework**.
 - 🤔 I will graduate with a master's degree in **June 2024**, and I am currently **looking for a job**.
 - 📫 How to reach me: **<a href="mailto:weiyi.wang1999@qq.com">weiyi.wang1999@qq.com</a>**
 
